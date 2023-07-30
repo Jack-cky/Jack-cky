@@ -3,25 +3,43 @@
 - ✍🏻 Only knows how to write shitty code
 - 🐶 Currently working as an IT dog
 
+
 ---
 ### Portfolio Contents
-##### 📊 VISUALISATION 📈
-1. [Dragon Tiger Billboard](https://github.com/Jack-cky/Dragon_Tiger_Billboard_for_CTN)
-    - Rankings of Building on Compulsory COVID Test in Hong Kong
-    - `# COVID-19` `# Compulsory Testing Notices` `# Hong Kong Story`
-2. [Every Page Ask](https://github.com/Jack-cky/EPA-Scrambling_Talents_over_to_Hong_Kong)
-    - Scrambling Talents over to Hong Kong for Developing an International Innovation and Technology Centre
-    - `# No Code Development` `# Talent Scrambling` `# Hong Kong Story`
+##### 📊 DATA VISUALISATION 📈
+1. [Dragon Tiger Billboard](https://github.com/Jack-cky/Hong-Kong-Story/tree/main/01-Dragon-Tiger-Billboard)
+    - Rankings of buildings subject to compulsory COVID testing in Hong Kong
+    - `# Hong Kong Story` `# COVID-19` `# Compulsory Testing Notices`
+2. [Every Page Ask](https://github.com/Jack-cky/Hong-Kong-Story/tree/main/02-Every-Page-Ask)
+    - Scrambling talent to Hong Kong for the development of an International Innovation and Technology Center
+    - `# Hong Kong Story` `# Talent Scrambling` `# No Code Development`
+3. [Bye Nine Bye](https://github.com/Jack-cky/Hong-Kong-Story/tree/main/03-Bye-Nine-Bye)
+    - Hong Kong population movement
+    - `# Hong Kong Story` `# Population Movement` `# Acquisition Programme`
 
-##### 🤖 MACHINE LEARNING 👾
-1. [J-League Prediction, YATTA!](https://github.com/Jack-cky/JPY-Wager_Optimisation_on_Asian_Handicap_with_Machine_Learning)
-    - Wager Optimisation on Asian Handicap with Machine Learning
-    - `# Gambling` `# Football` `# HKJC` `# J1-League`
+
+##### 🤖 MACHINE LEARNING 📚
+1. [Telco Customer Churn](https://www.kaggle.com/code/jackkyc/55-roi-never-gonna-let-you-churn)
+    - Predicting customer churn with business rationale
+    - `# Kaggle` `# Churn Prediction`
+2. [Wager Optimisation](https://github.com/Jack-cky/Wager-Optimisation)
+    - Predicting J-League Asian handicap with machine learning
+    - `# Gambling` `# Football` `# J1-League` `# HKJC`
+
+
+##### 💻 COMPUTER VISION 👀
+1. [Rice Image Dataset](https://www.kaggle.com/code/jackkyc/rice-image-classification-100-accuracy)
+    - Classifying rice varieties
+    - `# Kaggle` `# Image Classification`
+2. [SupermarketScanner](https://github.com/Jack-cky/SupermarketScanner)
+    - Business solution that prevents shoplifting
+    - `# Hong Kong Story` `# Supermarket` `# Proof of Concept`
+
 
 ---
 ### Reach me on
 <div>
-    <a href="https://www.linkedin.com/in/jack-cky">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="125px">
-    </a>
+  <a href="https://www.linkedin.com/in/jack-cky">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" width="125px">
+  </a>
 </div>
